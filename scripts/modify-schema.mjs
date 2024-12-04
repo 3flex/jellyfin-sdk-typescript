@@ -6,6 +6,7 @@
  * https://github.com/jellyfin/jellyfin-client-axios/blob/dfadff9b0b8749a04fb21d298b86624b20db1e5a/scripts/modifySchema.mjs
  */
 import fs from 'fs/promises';
+import process from 'node:process';
 
 (async (file) => {
 	let txt = await fs.readFile(file);

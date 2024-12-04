@@ -29,8 +29,6 @@
     "@openapitools/openapi-generator-cli": "2.15.3",
     "@rollup/plugin-typescript": "12.1.1",
     "@tsconfig/recommended": "1.0.8",
-    "@typescript-eslint/eslint-plugin": "8.17.0",
-    "@typescript-eslint/parser": "8.17.0",
     "@vitest/coverage-v8": "2.1.5",
     "eslint": "9.16.0",
     "eslint-plugin-import": "2.31.0",
@@ -40,6 +38,7 @@
     "rollup": "4.27.4",
     "typedoc": "0.26.11",
     "typescript": "5.6.3",
+    "typescript-eslint": "8.17.0",
     "vitest": "2.1.5"
   },
   "peerDependencies": {

@@ -1,5 +1,5 @@
 import path from 'node:path';
-import { fileURLToPath } from 'node:url';
+import { fileURLToPath, URL } from 'node:url';
 
 import typescript from '@rollup/plugin-typescript';
 import { glob } from 'glob';
